@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\EmployeeService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AED21053-9C7B-465E-9D6B-6D5413703727}|EmployeeApi\\EmployeeApi.csproj|c:\\users\\lenovo\\source\\repos\\employeeservice\\employeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AED21053-9C7B-465E-9D6B-6D5413703727}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BDE59E-D914-45A5-839E-5C4F282E71BE}|Business\\Business.csproj|c:\\users\\lenovo\\source\\repos\\employeeservice\\business\\mediatr\\handlers\\getemployeequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56BDE59E-D914-45A5-839E-5C4F282E71BE}|Business\\Business.csproj|solutionrelative:business\\mediatr\\handlers\\getemployeequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\AppData\\Local\\SourceServer\\a52b024f0f541abdd1235a8e419d4718efed9f46bfbcdf9c2c5a2497ee1adf8b\\src\\StackExchange.Redis\\ConnectionMultiplexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetEmployeeQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\EmployeeService\\Business\\MediatR\\Handlers\\GetEmployeeQueryHandler.cs",
+              "RelativeDocumentMoniker": "Business\\MediatR\\Handlers\\GetEmployeeQueryHandler.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\EmployeeService\\Business\\MediatR\\Handlers\\GetEmployeeQueryHandler.cs",
+              "RelativeToolTip": "Business\\MediatR\\Handlers\\GetEmployeeQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:25:11.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConnectionMultiplexer.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\AppData\\Local\\SourceServer\\a52b024f0f541abdd1235a8e419d4718efed9f46bfbcdf9c2c5a2497ee1adf8b\\src\\StackExchange.Redis\\ConnectionMultiplexer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\a52b024f0f541abdd1235a8e419d4718efed9f46bfbcdf9c2c5a2497ee1adf8b\\src\\StackExchange.Redis\\ConnectionMultiplexer.cs",
+              "ToolTip": "C:\\Users\\lenovo\\AppData\\Local\\SourceServer\\a52b024f0f541abdd1235a8e419d4718efed9f46bfbcdf9c2c5a2497ee1adf8b\\src\\StackExchange.Redis\\ConnectionMultiplexer.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\a52b024f0f541abdd1235a8e419d4718efed9f46bfbcdf9c2c5a2497ee1adf8b\\src\\StackExchange.Redis\\ConnectionMultiplexer.cs",
+              "ViewState": "AQIAAMgCAAAAAAAAAAAkwMcCAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:25:40.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\EmployeeService\\EmployeeApi\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeApi\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\EmployeeService\\EmployeeApi\\Program.cs",
+              "RelativeToolTip": "EmployeeApi\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:22:03.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

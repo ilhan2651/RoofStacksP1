@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\AuthGuard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC18A6F3-4AA7-4814-A710-4F45B7779917}|AuthGuard\\AuthGuard.csproj|c:\\users\\lenovo\\source\\repos\\authguard\\authguard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC18A6F3-4AA7-4814-A710-4F45B7779917}|AuthGuard\\AuthGuard.csproj|solutionrelative:authguard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC18A6F3-4AA7-4814-A710-4F45B7779917}|AuthGuard\\AuthGuard.csproj|c:\\users\\lenovo\\source\\repos\\authguard\\authguard\\tokenendpointoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC18A6F3-4AA7-4814-A710-4F45B7779917}|AuthGuard\\AuthGuard.csproj|solutionrelative:authguard\\tokenendpointoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7CE443E-9C35-407D-9448-B6EA59C23996}|AuthGuardTestProject\\AuthGuardTestProject.csproj|c:\\users\\lenovo\\source\\repos\\authguard\\authguardtestproject\\configtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7CE443E-9C35-407D-9448-B6EA59C23996}|AuthGuardTestProject\\AuthGuardTestProject.csproj|solutionrelative:authguardtestproject\\configtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC18A6F3-4AA7-4814-A710-4F45B7779917}|AuthGuard\\AuthGuard.csproj|c:\\users\\lenovo\\source\\repos\\authguard\\authguard\\infrastructure\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC18A6F3-4AA7-4814-A710-4F45B7779917}|AuthGuard\\AuthGuard.csproj|solutionrelative:authguard\\infrastructure\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenEndpointOperationFilter.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\AuthGuard\\AuthGuard\\TokenEndpointOperationFilter.cs",
+              "RelativeDocumentMoniker": "AuthGuard\\TokenEndpointOperationFilter.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\AuthGuard\\AuthGuard\\TokenEndpointOperationFilter.cs",
+              "RelativeToolTip": "AuthGuard\\TokenEndpointOperationFilter.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:53:17.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfigTests.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\AuthGuard\\AuthGuardTestProject\\ConfigTests.cs",
+              "RelativeDocumentMoniker": "AuthGuardTestProject\\ConfigTests.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\AuthGuard\\AuthGuardTestProject\\ConfigTests.cs",
+              "RelativeToolTip": "AuthGuardTestProject\\ConfigTests.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAArwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T17:19:07.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\AuthGuard\\AuthGuard\\Program.cs",
+              "RelativeDocumentMoniker": "AuthGuard\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\AuthGuard\\AuthGuard\\Program.cs",
+              "RelativeToolTip": "AuthGuard\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:15:23.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\AuthGuard\\AuthGuard\\Infrastructure\\Config.cs",
+              "RelativeDocumentMoniker": "AuthGuard\\Infrastructure\\Config.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\AuthGuard\\AuthGuard\\Infrastructure\\Config.cs",
+              "RelativeToolTip": "AuthGuard\\Infrastructure\\Config.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAmwDoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T11:47:50.999Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

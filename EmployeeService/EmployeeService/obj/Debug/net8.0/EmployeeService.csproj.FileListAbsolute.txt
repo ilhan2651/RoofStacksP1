@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\EmployeeService\EmployeeService\bin\Debug\net8.0\EmployeeService.exe
+C:\Users\lenovo\source\repos\EmployeeService\EmployeeService\bin\Debug\net8.0\EmployeeService.deps.json
+C:\Users\lenovo\source\repos\EmployeeService\EmployeeService\bin\Debug\net8.0\EmployeeService.runtimeconfig.json
+C:\Users\lenovo\source\repos\EmployeeService\EmployeeService\bin\Debug\net8.0\EmployeeService.dll
+C:\Users\lenovo\source\repos\EmployeeService\EmployeeService\bin\Debug\net8.0\EmployeeService.pdb
+C:\Users\lenovo\source\repos\EmployeeService\EmployeeService\obj\Debug\net8.0\EmployeeService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\EmployeeService\EmployeeService\obj\Debug\net8.0\EmployeeService.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\EmployeeService\EmployeeService\obj\Debug\net8.0\EmployeeService.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\EmployeeService\EmployeeService\obj\Debug\net8.0\EmployeeService.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\EmployeeService\EmployeeService\obj\Debug\net8.0\EmployeeService.dll
+C:\Users\lenovo\source\repos\EmployeeService\EmployeeService\obj\Debug\net8.0\refint\EmployeeService.dll
+C:\Users\lenovo\source\repos\EmployeeService\EmployeeService\obj\Debug\net8.0\EmployeeService.pdb
+C:\Users\lenovo\source\repos\EmployeeService\EmployeeService\obj\Debug\net8.0\EmployeeService.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\EmployeeService\EmployeeService\obj\Debug\net8.0\ref\EmployeeService.dll
